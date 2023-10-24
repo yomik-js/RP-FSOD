@@ -16,7 +16,7 @@ This repository contains the source code for our paper "Retentive Compensation a
 * Clone Code
   ```angular2html
   git clone https://github.com/yomik-js/RP-FSOD.git
-  cd RCPF
+  cd RP-FSOD
   ```
 * Create a virtual environment (optional)
   ```angular2html
