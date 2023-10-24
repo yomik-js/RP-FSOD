@@ -49,7 +49,7 @@ This repository contains the source code for our paper "**R**etentive Compensati
         | -- DIORsplit
         | -- NWPU
         | -- NWPUsplit
-      RCPF
+      RP-FSOD
       tools
       ...
     ```
