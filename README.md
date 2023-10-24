@@ -1,6 +1,4 @@
 # RP-FSOD
-<div align="center"><img src="assets/header.png" width="840"></div>
-
 ## Introduction
 
 This repository contains the source code for our paper "Retentive Compensation and Personality Filtering for Few-Shot Remote Sensing Object Detection" by Jiashan Wu, Chunbo Lang, Gong Cheng, Xingxing Xie, and Junwei Han..
