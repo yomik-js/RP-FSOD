@@ -1,4 +1,4 @@
-_BASE_: "../Base-RCNN.yaml"
+_BASE_: "./Base-RCNN.yaml"
 MODEL:
   WEIGHTS: "/Path/to/Base/Pretrain/Weight"
   MASK_ON: False
